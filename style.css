@@ -329,6 +329,14 @@ nav .fas{
     body {
         font-size: 14px;
     }
+    .element {
+        width: 300px;
+        font-size: 16px
+    }
+    .element {
+        width: 90%;
+        font-size: 1em;
+    }
     .header-text{
         margin-top: 100%;
         font-size: 16px;
